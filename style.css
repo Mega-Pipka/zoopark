@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    background-color:#74E868;
+}
+h1{
+    text-align: center;
+    font-weight: 400;
+ font-size: 40px;
+ line-height: 48px;
+  color: #C04141;
+background: #0D8800;
+}
+h2{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color:#0D8800 ;
+}
+img{
+text-align: center;
+}
+a{
+width: 485px;
+height: 78px;
+left: 0px;
+top: 503px;
+background-color: #0D8800;
+}
+nav a{
+    margin: 60px;
+}
+nav{
+    background-color: #0D8800; 
+}
